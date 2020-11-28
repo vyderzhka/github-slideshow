@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Believe in yourself, and you are half-way there!"
 Use the left arrow to go back!
